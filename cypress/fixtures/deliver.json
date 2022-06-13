@@ -1,0 +1,51 @@
+{
+     "signup": {
+        "name": "Kauan Almeida",
+        "cpf": "07602324477",
+        "email": "kauankaka3103@gmail.com",
+        "whatsapp": "79999999999",
+        "address":{
+            "postalcode": "49095780",
+            "street": "Rua Jasiel de Brito Côrtes",
+            "number": "200",
+            "details": "Ao lado do Alamedas jabotiana",
+            "district":"Jabotiana",
+            "city_state": "Aracaju/SE"
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+     },
+     "cpf_inv": {
+        "name": "Kauan Almeida",
+        "cpf": "076023244AA",
+        "email": "kauankaka3103@gmail.com",
+        "whatsapp": "799999999999",
+        "address":{
+            "postalcode": "49095780",
+            "street": "Rua Jasiel de Brito Côrtes",
+            "number": "200",
+            "details": "Ao lado do Alamedas jabotiana",
+            "district":"Jabotiana",
+            "city_state": "Aracaju/SE"
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+     },
+     "email_inv": {
+        "name": "Kauan Almeida",
+        "cpf": "07602324477",
+        "email": "kauankaka3103.com",
+        "whatsapp": "79999999999",
+        "address":{
+            "postalcode": "49095780",
+            "street": "Rua Jasiel de Brito Côrtes",
+            "number": "200",
+            "details": "Ao lado do Alamedas jabotiana",
+            "district":"Jabotiana",
+            "city_state": "Aracaju/SE"
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+     }
+
+}
